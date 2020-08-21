@@ -1,5 +1,3 @@
-// String reverse([String word]) => word.split('').reversed.join();
-
 String reverse(String word) {
   String reversedWord = '';
 
@@ -8,3 +6,7 @@ String reverse(String word) {
   }
   return reversedWord;
 }
+
+// Using in-built functions
+
+// String reverse([String word]) => word.split('').reversed.join();
