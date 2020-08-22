@@ -6,5 +6,5 @@ All solution files are in the **lib** folder of each exercise
 
 # How to run
 Copy the solution.  
-Go to [](https://dartpad.dev)    
+Go to [dartpad](https://dartpad.dev).      
 Paste code inside main function and run. 
