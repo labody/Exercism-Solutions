@@ -1,9 +1,4 @@
-String twoFer([String name]) {
-  String message;
-  message = 'One for $name, one for me.';
-
-  if (name == null) {
-    message = 'One for you, one for me.';
-  }
+String twoFer([String identity = 'you']) {
+  String message = 'One for $identity, one for me.';
   return message;
 }
